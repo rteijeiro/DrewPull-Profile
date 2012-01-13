@@ -8,43 +8,43 @@ projects[drupal][version] = "7.10"
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
 
-projects[ctools][subdir] = "sites/all/modules/contrib/ctools"
+projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.0-rc1"
 
-projects[ckeditor][subdir] = "sites/all/modules/contrib/ckeditor"
+projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.6"
 
-projects[features][subdir] = "sites/all/modules/contrib/features"
+projects[features][subdir] = "contrib"
 projects[features][version] = "1.0-beta6"
 
-projects[fivestar][subdir] = "sites/all/modules/contrib/fivestar"
+projects[fivestar][subdir] = "contrib"
 projects[fivestar][version] = "2.0-alpha1"
 
-projects[galleryformatter][subdir] = "sites/all/modules/contrib/galleryformatter"
+projects[galleryformatter][subdir] = "contrib"
 projects[galleryformatter][version] = "1.0"
 
-projects[jcarousel][subdir] = "sites/all/modules/contrib/jcarousel"
+projects[jcarousel][subdir] = "contrib"
 projects[jcarousel][version] = "2.6"
 
-projects[libraries][subdir] = "sites/all/modules/contrib/libraries"
+projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "1.0"
 
-projects[lightbox2][subdir] = "sites/all/modules/contrib/lightbox2"
+projects[lightbox2][subdir] = "contrib"
 projects[lightbox2][version] = "1.0-beta1"
 
-projects[omega_tools][subdir] = "sites/all/modules/contrib/omega_tools"
+projects[omega_tools][subdir] = "contrib"
 projects[omega_tools][version] = "3.0-rc3"
 
-projects[sharethis][subdir] = "sites/all/modules/contrib/sharethis"
+projects[sharethis][subdir] = "contrib"
 projects[sharethis][version] = "2.2"
 
-projects[views][subdir] = "sites/all/modules/contrib/views"
+projects[views][subdir] = "contrib"
 projects[views][version] = "3.0"
 
-projects[views_slideshow][subdir] = "sites/all/modules/contrib/views_slideshow"
+projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.0"
 
-projects[votingapi][subdir] = "sites/all/modules/contrib/votingapi"
+projects[votingapi][subdir] = "contrib"
 projects[votingapi][version] = "2.4"
 
 ; Themes
