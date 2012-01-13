@@ -32,6 +32,8 @@ dependencies[] = rdf
 ; DrewPull modules
 dependencies[] = ctools 
 dependencies[] = ckeditor
+dependencies[] = contact
+dependencies[] = features
 dependencies[] = fivestar
 dependencies[] = galleryformatter
 dependencies[] = jcarousel
@@ -41,6 +43,7 @@ dependencies[] = omega_tools
 dependencies[] = sharethis
 dependencies[] = views
 dependencies[] = views_slideshow
+dependencies[] = views_slideshow_cycle
 dependencies[] = votingapi
 
 ; Features
