@@ -24,7 +24,7 @@ Profile based on the Drupal Standard installation profile modules.
 	Lightbox 2		http://drupal.org/project/lightbox2
 	Features		http://drupal.org/project/features
 
-- Custom theme based on Omega (http://omega.developmentgeeks.com/)
+- Custom Omega Subtheme (http://omega.developmentgeeks.com/)
 
 	drewpull_theme		https://github.com/rteijeiro/drewpull-theme
 
