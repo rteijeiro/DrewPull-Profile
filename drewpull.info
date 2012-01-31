@@ -36,6 +36,7 @@ dependencies[] = contact
 dependencies[] = features
 dependencies[] = fivestar
 dependencies[] = galleryformatter
+dependencies[] = globalredirect
 dependencies[] = jcarousel
 dependencies[] = libraries
 dependencies[] = lightbox2
