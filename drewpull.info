@@ -45,6 +45,7 @@ dependencies[] = sharethis
 dependencies[] = views
 dependencies[] = views_slideshow
 dependencies[] = views_slideshow_cycle
+dependencies[] = views_ui
 dependencies[] = votingapi
 
 ; Features
